@@ -1,7 +1,7 @@
 # 🎥 MovieDB
 Frontend display for OMDB API <br>
 Built with Vanilla JS and Module Design Pattern <br> <br>
-<img src="https://github.com/viQcinese/documentation/blob/master/moviedb/moviedb.gif?raw=true" width="50%" height="50%"/>
+<img src="https://github.com/viQcinese/documentation/blob/master/moviedb/moviedb.gif?raw=true" width="100%" height="100%"/>
 
 # Installation
 You will need to run a server on your local machine to use this application. <br>
